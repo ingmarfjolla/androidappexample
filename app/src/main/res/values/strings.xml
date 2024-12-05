@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="fetch_threads">Fetch Threads</string>
+    <string name="interact_with_goldfish_pipe">Interact with Goldfish Pipe</string>
+</resources>
